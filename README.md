@@ -12,4 +12,4 @@ Lista de repositórios open source focados em desenvolvimento android para contr
 | Koin | Koin - a pragmatic lightweight dependency injection framework for Kotlin | InsertKoinIO | [Link](https://github.com/InsertKoinIO/koin) |
 | Coil | Image loading for Android backed by Kotlin Coroutines. | coil-kt | [Link](https://github.com/coil-kt/coil) |
 | Compressor | An android image compression library. | zetbaitsu | [Link](https://github.com/zetbaitsu/Compressor) |
-| Maildroid | Maildroid is a small robust android library for sending emails using SMTP server | nedimf | https://github.com/nedimf/maildroid |
+| Maildroid | Maildroid is a small robust android library for sending emails using SMTP server | nedimf | [Link](https://github.com/nedimf/maildroid) |
