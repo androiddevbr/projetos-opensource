@@ -13,3 +13,6 @@ Lista de repositórios open source focados em desenvolvimento android para contr
 | Coil | Image loading for Android backed by Kotlin Coroutines. | coil-kt | [Link](https://github.com/coil-kt/coil) |
 | Compressor | An android image compression library. | zetbaitsu | [Link](https://github.com/zetbaitsu/Compressor) |
 | Maildroid | Maildroid is a small robust android library for sending emails using SMTP server | nedimf | [Link](https://github.com/nedimf/maildroid) |
+| PowerSpinner | A lightweight dropdown popup spinner with fully customizable arrow and animations. | skydoves | [Link](https://github.com/skydoves/PowerSpinner) |
+| AndroidVeil | An easy, flexible way to implement veil skeletons and shimmering effect for Android. | skydoves | [Link](https://github.com/skydoves/AndroidVeil) |
+| Baloon | A lightweight popup like tooltips, fully customizable with arrow and animations. | skydoves | [Link](https://github.com/skydoves/Balloon) |
