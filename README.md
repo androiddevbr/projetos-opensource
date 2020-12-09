@@ -16,3 +16,4 @@ Lista de repositórios open source focados em desenvolvimento android para contr
 | PowerSpinner | A lightweight dropdown popup spinner with fully customizable arrow and animations. | skydoves | [Link](https://github.com/skydoves/PowerSpinner) |
 | AndroidVeil | An easy, flexible way to implement veil skeletons and shimmering effect for Android. | skydoves | [Link](https://github.com/skydoves/AndroidVeil) |
 | Baloon | A lightweight popup like tooltips, fully customizable with arrow and animations. | skydoves | [Link](https://github.com/skydoves/Balloon) |
+| Crop Image | Image Cropping Library for Android, optimised for Camera / Gallery. | [canato](https://github.com/Canato) | [Link](https://github.com/CanHub/Android-Image-Cropper) |
